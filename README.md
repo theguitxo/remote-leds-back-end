@@ -7,6 +7,7 @@ Here there are some Python and PHP scripts to manage LEDs sequences connected to
 You can read two posts (in Spanish) about the server configuration and how works the scripts in these URLs:
 
 https://www.guitxo.com/2019/09/12/leds-remotos-1-3/
+
 https://www.guitxo.com/2019/09/21/leds-remotos-2-3/
 
 ## Spanish
@@ -16,4 +17,5 @@ Aquí hay algunos scripts Python y PHP para administrar secuencias de LED conect
 Puede leer dos artículos sobre la configuración del servidor y cómo funcionan los scripts en estas URL:
 
 https://www.guitxo.com/2019/09/12/leds-remotos-1-3/
+
 https://www.guitxo.com/2019/09/21/leds-remotos-2-3/
