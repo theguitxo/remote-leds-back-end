@@ -9,9 +9,9 @@ import RPi.GPIO as GPIO
 class shifter74hc595():
 
   # Pins for data, clock and latch of 74hc595
-  data = None;
-  clock = None;
-  latch = None;
+  data = None
+  clock = None
+  latch = None
 
   # Array with the state of the 8 LEDs
   leds = [None, None, None, None, None, None, None, None]
@@ -21,9 +21,9 @@ class shifter74hc595():
   ' settings, then, turns off all LEDs
   '''
   def __init__(self, data, clock, latch):    
-    self.data = data;
-    self.clock = clock;
-    self.latch = latch;
+    self.data = data
+    self.clock = clock
+    self.latch = latch
     
     GPIO.setmode(GPIO.BOARD)
     GPIO.setwarnings(False)    
