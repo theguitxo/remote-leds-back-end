@@ -11,3 +11,7 @@ Here there are some Python and PHP scripts to manage LEDs sequences connected to
 Aquí hay algunos scripts Python y PHP para administrar secuencias de LED conectadas al GPIO de una Raspberry Pi. Los LED están controlados por los scripts de Python, y los scripts de PHP son utilizados por una aplicación remota, como un puente entre ellos y los scripts de Python
 
 [Aquí un fichero con una explicación de este repositorio](https://github.com/theguitxo/remote-leds-back-end/blob/master/leds.remotos.pdf)
+
+---
+
+[![Video Title](https://img.youtube.com/vi/tzz5ZXX6g7w/0.jpg)](https://www.youtube.com/watch?v=tzz5ZXX6g7w)
